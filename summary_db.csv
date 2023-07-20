@@ -1,0 +1,39 @@
+Origin;Destination;Avg Time, min;Avg Distance, km;Num of Routes
+Torikatu 10, Oulu;Pakkahuoneenkatu 9, Oulu;1;0.1;1
+Torikatu 10, Oulu;Kauppurienkatu 9 (Pekuria vastapäätä), Oulu;3;0.2;1
+Torikatu 10, Oulu;Rantakatu 3, Oulu;3;0.2;1
+Torikatu 10, Oulu;Kauppurienkatu 13, Oulu;4;0.4;1
+Torikatu 10, Oulu;Kajaaninkatu 11, Oulu;7;0.5;1
+Torikatu 10, Oulu;Hallituskatu 26, Oulu;7;0.6;1
+Torikatu 10, Oulu;Rautatienkatu 22 (Entinen pilailukauppa), Oulu;7;1.0;4
+Torikatu 10, Oulu;Tehtaankatu 1, Oulu;13;1.9;4
+Torikatu 10, Oulu;Kempeleentie 5, Oulu;13;2.0;4
+Torikatu 10, Oulu;Alasintie 12, Oulu;14;2.9;4
+Torikatu 10, Oulu;Kallisensuora 12, Oulu;16;3.1;4
+Torikatu 10, Oulu;Aapistie 5 B, Oulu;16;3.9;4
+Torikatu 10, Oulu;Paljetie 4, Oulu;20;2.7;4
+Torikatu 10, Oulu;Kaakkurinkulma 4, Oulu;31;9.6;4
+Torikatu 10, Oulu;Kellontie 272, Oulu;33;16.0;4
+Torikatu 10, Oulu;Alangontie 18, Oulu;34;12.3;4
+Torikatu 10, Oulu;Revontie 2, Oulu;37;20.8;4
+Torikatu 10, Oulu;Terveystie 6, Oulu;43;23.9;4
+Torikatu 10, Oulu;Siltatie 1, Oulu;52;24.6;4
+Yliopistokatu 1 B, Oulu;Pakkahuoneenkatu 9, Oulu;14;5.5;4
+Yliopistokatu 1 B, Oulu;Kauppurienkatu 9 (Pekuria vastapäätä), Oulu;16;5.6;4
+Yliopistokatu 1 B, Oulu;Rantakatu 3, Oulu;17;5.7;4
+Yliopistokatu 1 B, Oulu;Kauppurienkatu 13, Oulu;17;5.8;4
+Yliopistokatu 1 B, Oulu;Alangontie 18, Oulu;18;4.5;4
+Yliopistokatu 1 B, Oulu;Hallituskatu 26, Oulu;20;6.0;4
+Yliopistokatu 1 B, Oulu;Rautatienkatu 22 (Entinen pilailukauppa), Oulu;20;6.4;4
+Yliopistokatu 1 B, Oulu;Kajaaninkatu 11, Oulu;21;6.1;4
+Yliopistokatu 1 B, Oulu;Tehtaankatu 1, Oulu;26;7.3;4
+Yliopistokatu 1 B, Oulu;Kempeleentie 5, Oulu;27;7.4;4
+Yliopistokatu 1 B, Oulu;Alasintie 12, Oulu;33;8.7;4
+Yliopistokatu 1 B, Oulu;Aapistie 5 B, Oulu;33;9.2;4
+Yliopistokatu 1 B, Oulu;Paljetie 4, Oulu;34;8.0;4
+Yliopistokatu 1 B, Oulu;Kallisensuora 12, Oulu;35;9.1;4
+Yliopistokatu 1 B, Oulu;Kellontie 272, Oulu;45;15.0;4
+Yliopistokatu 1 B, Oulu;Kaakkurinkulma 4, Oulu;52;16.9;4
+Yliopistokatu 1 B, Oulu;Terveystie 6, Oulu;103;30.3;4
+Yliopistokatu 1 B, Oulu;Revontie 2, Oulu;110;19.6;4
+Yliopistokatu 1 B, Oulu;Siltatie 1, Oulu;112;31.0;4

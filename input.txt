@@ -1,0 +1,5 @@
+Yliopistokatu 1 B, Oulu;Torikatu 10, Oulu
+Rautatienkatu 22 (Entinen pilailukauppa);Rantakatu 3;Kellontie 272;Kauppurienkatu 9 (Pekuria vastapäätä);Paljetie 4;Kallisensuora 12;Alasintie 12;Siltatie 1;Kempeleentie 5;Revontie 2;Hallituskatu 26;Aapistie 5 B;Kauppurienkatu 13;Kaakkurinkulma 4;Kajaaninkatu 11;Pakkahuoneenkatu 9;Terveystie 6;Alangontie 18;Tehtaankatu 1
+transit
+
+
