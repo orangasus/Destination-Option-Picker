@@ -9,7 +9,7 @@ Input:
 After that using Google Maps API it analyzes every potential route between every origin and destination point. Script sorts that information, stores it into a csv file, prints the most optimal route for every origin point.
 
 Input
-<img src="examples/ex4.png" style="border: 5px solid grey;">
+<img src="examples/ex4.png" style="border: 100px solid grey;">
 
 Output
 <img src="examples/ex1.png" style="border: 5px solid grey;">
