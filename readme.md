@@ -1,5 +1,7 @@
 # Destination Option Picker
-## What does it do
+## Context
+I recently moved to a new country. I need to visit a photo-studio from a list before applying for the ID card, but there were 19 addresses. Since I am new in town, I have no idea which is the closest to me. So instead of typing every address in Google Maps, I decided to write this script. I inputted my home address and an address of a place I visit often near the city center. Ran the script. And... now I know which photo-studio is the closest
+## What it does
 Input:
 - Origin addresses
 - Potential destination addresses
@@ -17,9 +19,7 @@ Output
 CSV file
 <img src="examples/ex2.png" style="border: 5px solid grey;">
 <img src="examples/ex3.png" style="border: 5px solid grey;">
-## Backstory
-I recently moved to a new country. I need to visit a photo-studio from a list before applying for the ID card, but there were 19 addresses. Since I am new in town, I have no idea which is the closest to me. So instead of typing every address in Google Maps, I decided to write this script. I inputted my home address and an address of a place I visit often near the city center. Ran the script. And... now I know which photo-studio is the closest.
-## Who can use it and how
+## How to use it
 Basically, you can input a several origin and potential destinations addresses and get the most optimal route for each starting point.
 ## Technology Stack
 - __CSV__ module for storing information
